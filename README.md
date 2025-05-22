@@ -1,7 +1,4 @@
-# TodoApp
-
-```markdown
-# ✅ Todo Summary Assistant
+# Todo Summary Assistant
 
 A full-stack to-do list application with AI-powered summarization and Slack integration. Users can create, manage, and summarize their tasks using an LLM (OpenAI GPT) and send the summary to a Slack channel in one click.
 
@@ -53,7 +50,7 @@ root/
 │   │   └── index.js  # Express server (deployed as Vercel serverless function)
 │   ├── vercel.json
 │   └── package.json
-
+```
 ````
 
 ---
